@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="DELETE">
+        <choices/>
+        <description/>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_751350_wish_list.glide.source_control.default_branch_name</name>
+        <read_roles/>
+        <suffix>glide.source_control.default_branch_name</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-21 14:48:58</sys_created_on>
+        <sys_id>27bec233db454110ccf88e474896190a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_751350_wish_list.glide.source_control.default_branch_name</sys_name>
+        <sys_package display_value="Wish List" source="x_751350_wish_list">dc55ca3bdb054110ccf88e4748961979</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">dc55ca3bdb054110ccf88e4748961979</sys_scope>
+        <sys_update_name>sys_properties_27bec233db454110ccf88e474896190a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-21 14:48:58</sys_updated_on>
+        <type>string</type>
+        <value>main</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="DELETE" query="documentkey=27bec233db454110ccf88e474896190a"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Wish List">dc55ca3bdb054110ccf88e4748961979</application>
+        <file_path/>
+        <instance_id>e414c84bdbc2dbcc8264f70fbf961961</instance_id>
+        <instance_name>dev59553</instance_name>
+        <name>sys_properties_27bec233db454110ccf88e474896190a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description/><ignore_cache>true</ignore_cache><is_private>false</is_private><name>x_751350_wish_list.glide.source_control.default_branch_name</name><read_roles/><suffix>glide.source_control.default_branch_name</suffix><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-01-21 14:48:58</sys_created_on><sys_id>27bec233db454110ccf88e474896190a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_751350_wish_list.glide.source_control.default_branch_name</sys_name><sys_package display_value="Wish List" source="x_751350_wish_list">dc55ca3bdb054110ccf88e4748961979</sys_package><sys_policy/><sys_scope display_value="Wish List">dc55ca3bdb054110ccf88e4748961979</sys_scope><sys_update_name>sys_properties_27bec233db454110ccf88e474896190a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-01-21 14:48:58</sys_updated_on><type>string</type><value>main</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=27bec233db454110ccf88e474896190a"/></record_update>]]></payload>
+        <payload_hash>1184097872</payload_hash>
+        <record_name>x_751350_wish_list.glide.source_control.default_branch_name</record_name>
+        <reverted_from/>
+        <source>17698afbdb054110ccf88e47489619eb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-21 14:48:58</sys_created_on>
+        <sys_id>504f027fdb054110ccf88e474896193d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17e7d1caead0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-21 14:48:58</sys_updated_on>
+        <type>System Property</type>
+        <update_guid>984f027f69054110344da8c9dfc8413c</update_guid>
+        <update_guid_history>984f027f69054110344da8c9dfc8413c:1184097872</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-21 14:54:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties">sys_properties</sys_db_object>
+        <sys_id>2071e396ee81474ea1bfb4852d103cc9</sys_id>
+        <sys_metadata>27bec233db454110ccf88e474896190a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_751350_wish_list.glide.source_control.default_branch_name</sys_name>
+        <sys_package display_value="Wish List" source="x_751350_wish_list">dc55ca3bdb054110ccf88e4748961979</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">dc55ca3bdb054110ccf88e4748961979</sys_scope>
+        <sys_scope_delete display_value="">33e5bce0f720444c8bf7ec1b09602369</sys_scope_delete>
+        <sys_update_name>sys_properties_27bec233db454110ccf88e474896190a</sys_update_name>
+        <sys_update_version display_value="sys_properties_27bec233db454110ccf88e474896190a">504f027fdb054110ccf88e474896193d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-21 14:54:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
